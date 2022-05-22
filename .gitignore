@@ -1,0 +1,5 @@
+./data_app/data_app.egg-info
+./site_app/site_app.egg-info
+./.idea
+/data_app/media
+/site_app/media
